@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-  printf("Hello Worlds\n");
+  printf("Hello devOps in c programming\n");
   return 0;
 }
